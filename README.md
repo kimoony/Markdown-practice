@@ -130,7 +130,7 @@ $ npm install
 position 속성
 
 값 | 의미 | 기본값  
--- | -- | --:  
+-- | :--: | --:  
 static | 기준 없음 | O  
 ralative | 요소 자신 | X  
 absolute | 위치 상 부모 요소 | X  
